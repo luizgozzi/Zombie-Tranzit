@@ -12,4 +12,4 @@ Um endless runner de fugir de zumbis feito em Unity.
 4. Rode a cena principal
 
 ## Objetivo
-Desviar dos obstáculos e sobreviver o máximo possível.
+Desviar dos obstáculos, coletar moedas e sobreviver o máximo possível
